@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+,I'm+Lucas)
 
-<img src="https://raw.githubusercontent.com//lucasmoes/lucasmoes/waves.svg" width="100%" height="150">
+<img src="https://github.com/lucasmoes/lucasmoes/blob/main/waves.svg" width="100%" height="150">
 
 #
 
