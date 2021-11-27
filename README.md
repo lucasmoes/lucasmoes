@@ -32,4 +32,4 @@ I am an enthusiastic software developer(Student) from the Netherlands, intrested
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 
-![States](https://github-readme-stats.vercel.app/api?username=lucasmoes&theme=github_dark&count_private=true&include_all_commits=true)
+<!-- ![States](https://github-readme-stats.vercel.app/api?username=lucasmoes&theme=github_dark&count_private=true&include_all_commits=true) -->
