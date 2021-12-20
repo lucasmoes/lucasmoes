@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=lucasmoes&repo=lucasmoes&branch=main&file=README.md)
 
 
-I am an enthusiastic software developer(Student) from the Netherlands, intrested in learning and obtaining more skills everyday. Aiming to product the highest quality visual and internal software
+I am an enthusiastic software developer(Student) from the Netherlands, intrested in learning and obtaining more skills everyday. Aiming to product the highest quality front-end and back end software.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-moes-462a951b5/)](https://www.linkedin.com/in/lucas-moes-462a951b5/)
 
