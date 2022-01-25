@@ -5,7 +5,7 @@
 
 #
 
-![](https://komarev.com/ghpvc/?username=lucasmoes&repo=lucasmoes&branch=main&file=README.md)
+![](https://komarev.com/ghpvc/?username=lucasmoes&repo=lucasmoes&branch=main&file=README.md&style=flat-square)
 
 
 I am an enthusiastic software developer(Student) from the Netherlands, intrested in learning and obtaining more skills everyday. Aiming to product the highest quality front-end and back-end software.
