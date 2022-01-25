@@ -10,7 +10,8 @@
 
 I am an enthusiastic software developer(Student) from the Netherlands, intrested in learning and obtaining more skills everyday. Aiming to product the highest quality front-end and back-end software.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-moes-462a951b5/)](https://www.linkedin.com/in/lucas-moes-462a951b5/)
+## Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-moes/)](https://www.linkedin.com/in/lucas-moes/)
 
 
 ## Technologies:
@@ -30,6 +31,7 @@ I am an enthusiastic software developer(Student) from the Netherlands, intrested
 ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 <!-- ![States](https://github-readme-stats.vercel.app/api?username=lucasmoes&theme=github_dark&count_private=true&include_all_commits=true) -->
