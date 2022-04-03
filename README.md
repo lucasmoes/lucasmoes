@@ -8,7 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=lucasmoes&repo=lucasmoes&branch=main&file=README.md&style=flat-square)
 
 
-I am a software developer(Student) from the Netherlands, interested in learning and obtaining more skills everyday. Aiming to produce the highest quality front-end and back-end software.
+I am a software developer (student), with an interest in acquiring more skills and knowledge every day.
+I strive to produce front and back end software and solutions of the highest quality.
 
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-moes/)](https://www.linkedin.com/in/lucas-moes/)
