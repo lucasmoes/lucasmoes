@@ -1,12 +1,17 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R1QEKGR0XQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R1QEKGR0XQ');
+</script>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!,+I'm+Lucas)
 
 <img src="https://github.com/lucasmoes/lucasmoes/blob/main/waves.svg" width="100%" height="150">
 
 #
-
-![](https://komarev.com/ghpvc/?username=lucasmoes&repo=lucasmoes&branch=main&file=README.md&style=flat-square)
-
 
 I am a software developer (student), with an interest in acquiring more skills and knowledge every day.
 I strive to produce front and back end software and solutions of the highest quality.
