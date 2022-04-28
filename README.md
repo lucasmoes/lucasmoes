@@ -1,11 +1,3 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R1QEKGR0XQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R1QEKGR0XQ');
-</script>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!,+I'm+Lucas)
 
