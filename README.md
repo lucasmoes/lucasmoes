@@ -1,8 +1,9 @@
-<img src="https://github.com/lucasmoes/lucasmoes/blob/main/lmlogo.svg" width="100%" height="300">
+<img src="lmlogo.svg" width="100%" height="300">
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!,+I'm+Lucas)
 
-<img src="https://github.com/lucasmoes/lucasmoes/blob/main/waves.svg" width="100%" height="150">
+<!-- <img src="https://github.com/lucasmoes/lucasmoes/blob/main/waves.svg" width="100%" height="150"> -->
 
 #
 
