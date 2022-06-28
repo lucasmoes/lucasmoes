@@ -1,3 +1,4 @@
+<img src="https://github.com/lucasmoes/lucasmoes/blob/main/lmlogo.svg" width="100%" height="300">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!,+I'm+Lucas)
 
