@@ -7,7 +7,7 @@
 
 #
 
-I am a software developer (student), with an interest in acquiring more skills and knowledge every day.
+I am a software developer, with an interest in acquiring more skills and knowledge every day.
 I strive to produce front and back end software and solutions of the highest quality.
 
 ## Connect with me:
